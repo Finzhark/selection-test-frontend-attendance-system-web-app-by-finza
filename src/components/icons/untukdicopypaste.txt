@@ -1,0 +1,11 @@
+const userIcon = <FontAwesomeIcon icon={faUser} />
+const settingIcon = <FontAwesomeIcon icon={faGear} />
+
+const eyeOpenedIcon = <FontAwesomeIcon icon={faEye} size="2xl" />
+const eyeClosedIcon = <FontAwesomeIcon icon={faEyeSlash} />
+<!-- solid / regular -->
+
+const businessTimeIcon = <FontAwesomeIcon icon={faBusinessTime} />
+const idCardIcon = <FontAwesomeIcon icon={faIdCard} />
+const idBagdeIcon = <FontAwesomeIcon icon={faIdBadge} />
+

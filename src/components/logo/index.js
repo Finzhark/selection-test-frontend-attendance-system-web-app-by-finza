@@ -6,7 +6,7 @@ export default function Logo () {
 
     return (
         <div className="">
-            <div className="h-1 w-1 anmiate-spin border rounded-full outline-dashed outline-7 outline-green-800 outline-offset-0 flex justify-center items-center p-7">
+            <div className="h-1 w-1 border rounded-full outline-dashed outline-7 outline-green-800 outline-offset-0 flex justify-center items-center p-7">
                 {coffeeIcon}
             </div>
         </div>
